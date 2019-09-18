@@ -1,6 +1,5 @@
 const express = require('express');
 let MongoClient = require('mongodb').MongoClient;
-// let url = "mongodb://localhost:27017/IMTS";
 let url = 'mongodb+srv://admin:26031998boxe@@cluster0-b3pli.mongodb.net/IMTS'
 const cors = require('cors');
 const bodyParser = require('body-parser');
