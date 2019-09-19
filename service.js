@@ -1,6 +1,7 @@
 const express = require('express');
 let MongoClient = require('mongodb').MongoClient;
-let url = 'mongodb+srv://admin:26031998boxe@@cluster0-b3pli.mongodb.net/IMTS'
+// let url = 'mongodb+srv://@cluster0-b3pli.mongodb.net/IMTS'
+let url = 'mongodb+srv://admin:26031998boxe@@cluster0-b3pli.mongodb.net/IMTS?retryWrites=true&w=majority'
 const cors = require('cors');
 const bodyParser = require('body-parser');
 let app = express();
