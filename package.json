@@ -9,7 +9,7 @@
     },
     "engines": {
         "node": "10.16.2",
-        "nmp": "3.10.10"
+        "nmp": "6.11.3"
     },
     "author": "Oséias Beu",
     "license": "ISC",
