@@ -7,6 +7,10 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "node service.js"
     },
+    "engines": {
+        "node": "6.11.0",
+        "nmp": "3.10.10"
+    },
     "author": "Oséias Beu",
     "license": "ISC",
     "dependencies": {
