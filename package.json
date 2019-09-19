@@ -8,7 +8,7 @@
         "start": "node service.js"
     },
     "engines": {
-        "node": "6.11.0",
+        "node": "10.16.2",
         "nmp": "3.10.10"
     },
     "author": "Oséias Beu",
